@@ -1,0 +1,8 @@
+{
+  "name": "Dark Gravity Protocol Limited",
+  "description": "Aerospace systems, lunar landers, multi-orbit spacecraft mobility, and reusable heavy-lift launch vehicles  DB COLLECTION ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
